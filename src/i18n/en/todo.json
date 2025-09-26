@@ -1,0 +1,9 @@
+{
+  "todo": {
+    "created": "Todo created successfully",
+    "updated": "Todo updated successfully",
+    "deleted": "Todo deleted successfully",
+    "notFound": "Todo not found",
+    "found": "Todo found"
+  }
+}

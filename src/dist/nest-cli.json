@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "assets": ["i18n/**/*"],
+    "watchAssets": true
+  }
+}
