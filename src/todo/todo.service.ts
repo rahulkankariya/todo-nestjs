@@ -20,7 +20,7 @@ export class TodoService {
     const newTodo: Todo = {
       id: this.idCounter++,
       title,
-      description,
+      description :description || '',
       createdAt: now,
       updatedAt: now,
     };

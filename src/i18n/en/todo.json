@@ -1,9 +1,8 @@
 {
-  "todo": {
-    "created": "Todo created successfully",
-    "updated": "Todo updated successfully",
-    "deleted": "Todo deleted successfully",
-    "notFound": "Todo not found",
-    "found": "Todo found"
-  }
+  "list": "Todo list retrieved successfully",
+  "created": "Todo created successfully",
+  "updated": "Todo updated successfully",
+  "deleted": "Todo deleted successfully",
+  "notFound": "Todo not found",
+  "found": "Todo found"
 }
